@@ -1,22 +1,11 @@
-\# Bank Risk Platform
+# Bank Risk Platform
 
+## Project
 
+[Your chosen/composed description]
 
-\## Project
+## Team Modules
 
-
-
-A banking risk analysis platform.
-
-
-
-\## Team Modules
-
-
-
-\- Backend API
-
-\- Frontend Dashboard
-
-\- ML Risk Model
-
+- Backend API
+- Frontend Dashboard
+- ML Risk Model
